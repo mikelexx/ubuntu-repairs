@@ -1,0 +1,18 @@
+{
+  "languageserver": {
+    "python3": {
+      "settings": {
+         "python.analysis.autoSearchPaths": true,
+         "python.analysis.useLibraryCodeForTypes": true,
+         "python.analysis.typeCheckingMode": "strict"
+
+      }
+    }
+  },
+  "pyright.inlayHints.functionReturnTypes": false,
+  "pyright.inlayHints.variableTypes": false,
+  "pyright.inlayHints.parameterTypes": false,
+  "coc.preferences.useQuickfixForLocations": true,
+  "suggest.noselect": false
+}
+
